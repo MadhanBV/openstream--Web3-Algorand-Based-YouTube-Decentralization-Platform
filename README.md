@@ -1,0 +1,2 @@
+# openstream--Web3-Algorand-Based-YouTube-Decentralization-Platform
+OpenStream is a semi-decentralized Web3 video platform empowering creator sovereignty. Featuring decentralized IPFS content storage, Algorand blockchain micro-rewards, transparent monetization, and cryptographic wallet authentication, built with modern React 19, FastAPI, and Pera Wallet for a fast, censorship-resistant streaming experience.
